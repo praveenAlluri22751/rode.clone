@@ -5,8 +5,7 @@ Hi :wave: Coders!
 </p>
 
 
-![tech](https://img.shields.io/badge/Tech%20Involved%20-FF8800?style=for-the-badge&logoColor=white)
-<ul>
+# Tech Involved?
 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
