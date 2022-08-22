@@ -1,0 +1,43 @@
+@media screen and (min-width:1000px) {
+    .hero{
+        background-image: url('assets/djboard.jpg');
+        height: 100vh;
+        margin-top: 90px;
+        background-position: center;
+        background-size: cover;
+    }
+    .hero1{
+        background-image: url('assets/3.jpg');
+        height: 100vh;
+        background-position: center;
+        background-size: cover;
+    }
+    .hero2{
+        background-image: url('assets/4.jpg');
+        height: 100vh;
+        background-position: center;
+        background-size: cover;
+    }
+    .hero3{
+        background-image: url('assets/5.jpg');
+        height: 100vh;
+        background-position: center;
+        background-size: cover;
+    }
+    .hero4{
+        background-image: url('assets/6.jpg');
+        height: 100vh;
+        background-position: center;
+        background-size: cover;
+    }
+    .hero5{
+        background-image: url('assets/7.jpg');
+        height: 100vh;
+        background-position: center;
+        background-size: cover;
+    }
+}
+
+header{
+    top: 0;
+}
